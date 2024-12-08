@@ -1,0 +1,8 @@
+.box{
+    max-width: 30vw;
+    height: 20vh !important;
+}
+.pie{
+    max-width: 500px;
+    max-height: 200px;
+}
